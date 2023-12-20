@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848402754583",
+    "project_id": "cashflow-buddy-01",
+    "storage_bucket": "cashflow-buddy-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848402754583:android:73b3cdffcbd9c203c68052",
+        "android_client_info": {
+          "package_name": "com.example.cashrecord"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCteENyFJbTUe_sDoJzrQZPOBRqyaBTRcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848402754583:android:8826cf646d36694fc68052",
+        "android_client_info": {
+          "package_name": "com.example.flatmatefinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCteENyFJbTUe_sDoJzrQZPOBRqyaBTRcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
